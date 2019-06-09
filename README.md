@@ -6,7 +6,7 @@ that can be used to verify logs that are produced. The program must be run eithe
 on Windows or by using wine32. The repo provides a Dockerfile that can be used
 to create a Linux environment that can be used to run the program.
 
-Usage:
+## Usage:
 Windows (or create a [bat file](https://captainrookie.com/how-to-check-if-an-eac-log-file-has-been-edited/)):
 ```
 CheckLog.exe path/to/log_file.log
